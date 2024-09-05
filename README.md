@@ -25,7 +25,7 @@ Users can interact with the dashboard by selecting filters (e.g., by state, quar
 ## Insights and Recommendations:
 ### Top Selling Product Category:
 
-- Clothing accounted for the highest percentage of sales (62%), indicating a strong demand for apparel in the online store. The store could focus on expanding this category, introducing more clothing options, or running promotional campaigns to maximize revenue.
+Clothing accounted for the highest percentage of sales (62%), indicating a strong demand for apparel in the online store. The store could focus on expanding this category, introducing more clothing options, or running promotional campaigns to maximize revenue.
   
 ### Geographical Insights:
 
@@ -44,6 +44,6 @@ Cash on Delivery (COD) accounted for the largest share of payments (43%), which 
 Printers and Bookcases contributed the most to profit among sub-categories. These items could be promoted further, or similar high-margin products could be explored.
 
 ## Recommendations for Further Analysis:
-Customer Segmentation: Analyzing customer behavior in more detail (e.g., repeat customers vs. new customers) could offer insights into retention strategies and help increase customer loyalty.
-Inventory Optimization: By linking the sales trends with stock availability, the store can better manage its inventory, ensuring that high-demand products are well-stocked, especially in peak sales months.
-Marketing Optimization: Based on regional performance and product demand, the store could run tailored marketing campaigns to boost sales in underperforming categories or regions.
+- Customer Segmentation: Analyzing customer behavior in more detail (e.g., repeat customers vs. new customers) could offer insights into retention strategies and help increase customer loyalty.
+- Inventory Optimization: By linking the sales trends with stock availability, the store can better manage its inventory, ensuring that high-demand products are well-stocked, especially in peak sales months.
+- Marketing Optimization: Based on regional performance and product demand, the store could run tailored marketing campaigns to boost sales in underperforming categories or regions.
