@@ -14,7 +14,7 @@ New tables and calculated columns were created to perform advanced calculations 
 ## Dashboard Creation:
 
 - KPIs: Key performance indicators (KPIs) like Sum of Amount (Total Sales), Sum of Profit, Sum of Quantity Sold, and AOV were calculated and prominently displayed.
-- Visualizations: A range of dynamic charts, including bar charts, pie charts, and line charts, were used to display important metrics:
+- Visualizations: A range of dynamic charts, including bar charts, coloumn charts, and donut charts, were used to display important metrics:
 1. Sum of Amount by State to identify regions contributing the most to sales.
 2. Sum of Quantity by Category to show which product categories are selling the most.
 3. Profit by Month to track profitability trends over time.
