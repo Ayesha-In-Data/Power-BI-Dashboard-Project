@@ -1,4 +1,4 @@
-E-commerce Sales Dashboard Project Overview
+# E-commerce Sales Dashboard Project Overview
 Project Objective:
 The project aimed to create an interactive Power BI dashboard to analyze and track the sales performance of an online store. The dashboard provides detailed insights into various sales metrics, including total revenue, profit, quantity sold, and average order value (AOV). The goal was to enable data-driven decision-making for the e-commerce business, focusing on tracking key sales trends and identifying opportunities for improvement.
 
