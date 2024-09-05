@@ -25,7 +25,7 @@ Users can interact with the dashboard by selecting filters (e.g., by state, quar
 ## Insights and Recommendations:
 ### Top Selling Product Category:
 
-Clothing accounted for the highest percentage of sales (62%), indicating a strong demand for apparel in the online store. The store could focus on expanding this category, introducing more clothing options, or running promotional campaigns to maximize revenue.
+Clothing accounted for the highest percentage of sales (63%), indicating a strong demand for apparel in the online store. The store could focus on expanding this category, introducing more clothing options, or running promotional campaigns to maximize revenue.
   
 ### Geographical Insights:
 
@@ -37,7 +37,7 @@ The "Profit by Month" visualization showed significant fluctuations, with spikes
 
 ### Payment Method Preferences:
 
-Cash on Delivery (COD) accounted for the largest share of payments (43%), which indicates a high preference for COD among customers. Offering more incentives to switch to online payment methods (like discounts for credit card or UPI payments) could help reduce COD-related challenges like returns or cancellations.
+Cash on Delivery (COD) accounted for the largest share of payments (44%), which indicates a high preference for COD among customers. Offering more incentives to switch to online payment methods (like discounts for credit card or UPI payments) could help reduce COD-related challenges like returns or cancellations.
 
 ### Profit by Product Sub-Category:
 
